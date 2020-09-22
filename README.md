@@ -18,11 +18,17 @@ using namespace std;
 
 
 // Prorotypes
+
 void CreateList(int n, struct Node*& start);
+
 void DisplayList(Node* start);
+
 void InsertNode(Node* start, int n);
+
 void DeleteNode(Node* start, int n);
+
 void eraseAll(Node* start);
+
 int  NodeCount(Node* start);
 
 
