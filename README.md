@@ -2,13 +2,15 @@
 Code for the creation of double linked lists and its basic functions. 
 
 //3/30/2020
-//Santiago Monsalve-Mejia
-//Data struc and algorythm analysis
-//Assigment 03;
 
-// This program will create a double link list with n number of nodes based on 
-// the user's input. The program will also allow the user to add and delete
-// nodes from the link list
+//Santiago Monsalve-Mejia
+
+//Data struc and algorythm analysis
+
+
+// This program will create a double link list with n number of nodes based on the user's input
+
+//The program will also allow the user to add and delete nodes from the link list
 
 //Header
 #include <iostream>
